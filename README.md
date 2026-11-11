@@ -1,18 +1,18 @@
-# Repositório de Dados do TCC (`tcc-dados-mitre`)
+# TCC Data Repository (`mitre-attack-d3fend-data`)
 
-Este repositório armazena os conjuntos de dados estruturados utilizados no desenvolvimento do Trabalho de Conclusão de Curso (TCC), focados na análise de Ameaças Persistentes Avançadas (APTs), mapeamento de TTPs (MITRE ATT&CK), técnicas defensivas (MITRE D3FEND) e salvaguardas (CIS Controls).
+This repository stores the structured datasets used in the development of the Undergraduate Thesis (TCC), focused on the analysis of Advanced Persistent Threats (APTs), TTP mapping (MITRE ATT&CK), defensive techniques (MITRE D3FEND), and safeguards (CIS Controls).
 
-## Estrutura dos Dados
+## Data Structure
 
-A pasta `dados/` contém os ficheiros principais resultantes do levantamento metodológico:
+The `data/` folder contains the primary files resulting from the methodological survey:
 
-* **`Compilado_TTPs_MITRE_ATTCK.xlsx`**: Contém o mapeamento detalhado e o cruzamento de táticas, técnicas (TTPs), códigos identificadores e a associação com os respetivos grupos APT analisados ao longo da pesquisa.
-* **`DEFEND Completo.xlsx`**: Contém a matriz completa de correlação entre as técnicas defensivas MITRE D3FEND e as salvaguardas priorizadas dos CIS Controls, incluindo as contagens e frequências obtidas nos experimentos.
+- **`Compilado_TTPs_MITRE_ATTCK.xlsx`**: Contains detailed mapping and cross-referencing of tactics, techniques (TTPs), identifiers, and their association with the respective APT groups analyzed throughout the research.
+- **`DEFEND Completo.xlsx`**: Contains the complete correlation matrix between MITRE D3FEND defensive techniques and prioritized CIS Controls safeguards, including counts and frequencies obtained from the experiments.
 
-## Contexto Académico
+## Academic Context
 
-Estes dados dão suporte aos apêndices metodológicos e práticos do documento de TCC, garantindo a transparência e a reprodutibilidade dos resultados apresentados.
+These datasets support the methodological and practical appendices of the TCC document, ensuring the transparency and reproducibility of the presented results.
 
-## Licença
+## License
 
-Estes conjuntos de dados são disponibilizados exclusivamente para fins acadêmicos, de consulta e de investigação científica.
+These datasets are provided exclusively for academic consultation and scientific research purposes.
